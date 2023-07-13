@@ -1,4 +1,4 @@
-# cor de HTML
+# HTML - Cor azul
 <!DOCTYPE html>
 <html>
 <head>
